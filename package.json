@@ -1,0 +1,20 @@
+{
+  "name": "googlebooksapp",
+  "version": "1.0.0",
+  "description": "This app allows the user to view and save books from the Google Bookthis information is stored in MongoDB.",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thescottbob/googleBooksApp.git"
+  },
+  "author": "thescottbob",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thescottbob/googleBooksApp/issues"
+  },
+  "homepage": "https://github.com/thescottbob/googleBooksApp#readme"
+}
