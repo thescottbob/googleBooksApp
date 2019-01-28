@@ -1,11 +1,6 @@
 {
     "short_name": "React Google Books Search",
     "name": "React Google Books Search",
-    "icons": [
-      {
-        "64": "favicon.ico" 
-      }
-    ],
     "start_url": "./index.html",
     "display": "standalone",
     "theme_color": "#000000",
