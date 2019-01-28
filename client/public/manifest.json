@@ -3,9 +3,7 @@
     "name": "React Google Books Search",
     "icons": [
       {
-        "src": "favicon.ico",
-        "sizes": "64x64",
-        "type": "Icon"
+        "64": "client/public/favicon.ico" 
       }
     ],
     "start_url": "./index.html",
